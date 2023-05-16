@@ -1,0 +1,8 @@
+.base-container {
+    max-width: 85rem;
+    margin: 0 auto;
+
+    @media screen and (min-width: 768px) {
+        padding: 0 1rem;
+    }
+}
